@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-label="LIDERAZGO // LEADERSHIP">
+<rect width="900" height="56" rx="8" fill="#14161a"/><rect x="0.5" y="0.5" width="899" height="55" rx="7.5" fill="none" stroke="#2c323a"/>
+<rect x="12" y="12" width="68" height="32" rx="4" fill="#c8393c"/>
+<text x="46" y="33" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#fff">SEC.04</text>
+<text x="96" y="36" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="20" font-weight="700" fill="#ececec" letter-spacing="2" textLength="345" lengthAdjust="spacingAndGlyphs">LIDERAZGO // LEADERSHIP</text>
+<line x1="461" y1="28" x2="880" y2="28" stroke="#2c323a" stroke-width="2"/>
+<line x1="461" y1="28" x2="521" y2="28" stroke="#d8933d" stroke-width="3"/>
+<circle cx="884" cy="28" r="4" fill="#e14b4b"/>
+</svg>
