@@ -7,8 +7,6 @@
 <a href="https://www.linkedin.com/in/ulises-agustin-rodríguez"><img src="https://img.shields.io/badge/LINKEDIN-Ulises%20Rodr%C3%ADguez-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
 <a href="mailto:uarodriguez@computer.org"><img src="https://img.shields.io/badge/EMAIL-uarodriguez%40computer.org-d8933d?style=for-the-badge&logo=ieee&logoColor=white" alt="Email"></a>
 
-<br><br>
-
 <details open>
 <summary><b>🇦🇷 Español</b></summary>
 <br>
