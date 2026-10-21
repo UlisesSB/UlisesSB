@@ -1,8 +1,6 @@
 <!-- Perfil de GitHub de Ulises Agustín Rodríguez. Repo: UlisesSB/UlisesSB -->
 <div align="center">
 
-<img src="assets/logo.png" alt="Logo Ulises Rodríguez" width="130">
-
 <img src="assets/banner.svg" alt="Ulises Agustín Rodríguez — Embedded systems & firmware" width="100%">
 
 <a href="https://uarodriguez.com"><img src="https://img.shields.io/badge/PORTFOLIO-uarodriguez.com-c8393c?style=for-the-badge" alt="Portfolio"></a>
@@ -10,11 +8,6 @@
 <a href="mailto:uarodriguez@computer.org"><img src="https://img.shields.io/badge/EMAIL-uarodriguez%40computer.org-d8933d?style=for-the-badge&logo=ieee&logoColor=white" alt="Email"></a>
 
 <br><br>
-<sub>🌐 <b>ES / EN</b> — desplegá tu idioma abajo · expand your language below</sub>
-
-</div>
-
-<br>
 
 <details open>
 <summary><b>🇦🇷 Español</b></summary>
