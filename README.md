@@ -249,7 +249,7 @@ Advanced **Computer Engineering** student at **UNT-FACET** (Tucumán, Argentina)
 
 <sub>Si te interesa el hardware, el firmware o IEEE, escribime: · If you are into hardware, firmware or IEEE, get in touch:</sub>
 
-<a href="https://uarodriguez.com">uarodriguez.com</a> &nbsp;·&nbsp; <a href="mailto:uarodriguez@computer.org">uarodriguez@computer.org</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ulises-agustin-rodriguez-a3aa563b5">LinkedIn</a>
+<a href="https://uarodriguez.com">uarodriguez.com</a> &nbsp;·&nbsp; <a href="mailto:uarodriguez@computer.org">uarodriguez@computer.org</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ulises-agustin-rodríguez">LinkedIn</a>
 
 <br>
 
